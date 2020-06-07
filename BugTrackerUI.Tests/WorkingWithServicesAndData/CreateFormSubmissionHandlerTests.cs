@@ -1,14 +1,7 @@
-﻿using BugTrackerUI.Pages;
-using HtmlAgilityPack;
-using System;
-using System.Collections.Generic;
+﻿using BugTrackerUI.Tests;
 using System.IO;
-using System.Linq;
 using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
 using Xunit;
-using BugTrackerUI.Tests;
 
 namespace M4_BugTrackerUI.Tests.WorkingWithServicesAndData
 {
